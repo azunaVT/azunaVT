@@ -1,4 +1,4 @@
-<p align="center" style="float:right; margin-left:15px">
+<p align="center">
   <img src="banner.png" width="800" />
 </p>
 
