@@ -24,8 +24,6 @@ A few things that define how I work:
 - Take the time afterwards to understand root causes and fix things properly
 
 
----
-
 ## 🚀 Featured Projects
 
 ### 🧩 Personal Homelab (feenx-lab)
@@ -86,8 +84,6 @@ Some services in my homelab stack were brittle when external requests failed. I 
 HTTP · Tooling · Reliability · Pragmatic Engineering
 
 [Repository → https://github.com/azunaVT/retryrr]
-
----
 
 ## 🎮 Hobbies & Interests
 
